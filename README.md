@@ -1,19 +1,20 @@
-# PHP Project 🚀
+# PHP Course 📚
 
-This project is built with **PHP** and aims to provide hands-on practice in web development using PHP.  
-It includes practical examples to understand the language fundamentals, server interaction, and better code organization.
+This repository contains **PHP tutorials, examples, and explanations** designed to help learners understand PHP step by step.  
+It is not a full project, but rather a collection of educational content for practice and study.
 
-## ✨ Features
-- Clear examples to demonstrate PHP basics.
-- Well-structured and easy-to-follow code.
-- Flexible foundation to expand and add more features later.
+## ✨ What’s Inside
+- Well-structured PHP code examples with comments.
+- Step-by-step guides to PHP fundamentals.
+- Practical exercises for server-side programming.
+- Notes and explanations to support learning.
 
 ## 🛠️ Requirements
 - PHP 8.0 or higher.
-- A web server such as Apache or Nginx (or use PHP’s built-in server).
-- A modern web browser for testing.
+- A local server (XAMPP, WAMP, Laragon) or PHP built-in server.
+- A code editor (e.g., VS Code).
 
-## ▶️ How to Run
+## ▶️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/REPO-NAME.git
+   git clone https://github.com/abdallah-el-sawy/PHP_Course.git
