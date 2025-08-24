@@ -3,6 +3,10 @@
 This repository contains **PHP tutorials, examples, and explanations** designed to help learners understand PHP step by step.  
 It is not a full project, but rather a collection of educational content for practice and study.
 
+   📌 Note  
+This course is still in progress. I’m actively working on adding more content, and it will be fully summarized and organized within the next 7 days, Insha’Allah. 🚀
+
+
 ## ✨ What’s Inside
 - Well-structured PHP code examples with comments.
 - Step-by-step guides to PHP fundamentals.
@@ -18,7 +22,4 @@ It is not a full project, but rather a collection of educational content for pra
 1. Clone the repository:
    ```bash
    git clone https://github.com/abdallah-el-sawy/PHP_Course.git
-
-   📌 Note  
-This course is still in progress. I’m actively working on adding more content, and it will be fully summarized and organized within the next 7 days, Insha’Allah. 🚀
 
