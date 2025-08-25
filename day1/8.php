@@ -10,7 +10,7 @@ echo '<br>';
 
 //echo "Hello "PHP"" error same  as single ''
 
-
+//here we want to print Hello 'PHP' in single quotes so we type \ then the ' like that \'PHP\'
 echo 'Hello \'PHP\''; // same as double ""
 echo '<br>';
 
