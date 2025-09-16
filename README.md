@@ -5,7 +5,7 @@ It is not a full project, but rather a collection of educational content for pra
 
    📌 Note  
 This course is still in progress. I’m actively working on adding more content, and it will be fully summarized and organized within the next 7 days, Insha’Allah. 🚀
-
+ 
 
 ## ✨ What’s Inside
 - Well-structured PHP code examples with comments.
