@@ -21,4 +21,4 @@ This course is still in progress. I’m actively working on adding more content,
 ## ▶️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdallah-el-sawy/PHP_Course.git
+   git clone https://github.com/abdallah-el-sawy/PHP-Course.git
